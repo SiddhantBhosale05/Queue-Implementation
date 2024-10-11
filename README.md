@@ -25,7 +25,7 @@ A queue is a linear data structure that follows the First In, First Out (FIFO) p
 #### Implementation
 
 Queues can be implemented using two primary methods: arrays and linked lists.
-eg-
+Example
 ```cpp
 struct Queue {
     int arr[MAX]; // Array to hold queue elements
